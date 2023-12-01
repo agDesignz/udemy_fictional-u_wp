@@ -12,8 +12,8 @@ function display_contact_form() {
 	$success_message = '';
 
 	// RECAPTCHA
-	$public_key = "6LcolzomAAAAAJYZysNN73nVyDAWMiu6qF-XzFzo";
-	$private_key = "6LcolzomAAAAAIzjTD03ecSoCrLCqApUOqZvYWcB";
+	$public_key = </>;
+	$private_key = "</>";
 	$url = "https://www.google.com/recaptcha/api/siteverify";
 
 
